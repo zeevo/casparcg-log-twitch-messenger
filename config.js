@@ -12,5 +12,5 @@ module.exports = {
     },
     channels: [''], // change me!
   },
-  logfile: './casparcg_log_file', // change me!
+  logfile: './test/casparcg_test_log_file.txt', // change me!
 };
